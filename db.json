@@ -1,0 +1,22 @@
+{
+"articoli": [
+    {
+      "id": 1,
+      "titolo": "Articolo 139",
+      "url": "https://github.com/MemikKaratas46/Angular-/new/main",
+      "like": 2038432
+    },
+    {
+      "id": 1,
+      "titolo": "Tu comm'a mme",
+      "url": "https://github.com/MemikKaratas46/Angular-/new/main",
+      "like": 217000      
+    },
+    {
+      "id": 1,
+      "titolo": "GGG",
+      "url": "https://github.com/MemikKaratas46/Angular-/new/main",
+      "like": 1976     
+    }
+  ]
+}
